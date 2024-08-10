@@ -1,6 +1,22 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "1",
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "id": "2",
+        "title": "Esoteric Text",
+        "text": "Reality in itself has no value or self-sufficiency. It is up to the observer to give their reality value and tangibility by means of the senses. Hence, reality is the particular will of the onlooker as long as they think and picture reality to the extent of the capabilities of their senses. Sufficiency and tangibility belong to the particular and not to their reality, thus confirming their existence contingent on that reality in itself. "
+    },
+    {
+        "id": "3",
+        "title": "Another One",
+        "text": "If one decides to explore phenomenology, one will inevitably run into the answers that define the self. Consequently, phenomenology outlives all the remaining philosophies and claims the title of True Philosophy. When we understand the world by means of our abilities and limitations, we understand our place in it as existential agents living a fleeting dream. Through the understanding of the self, one can reach authenticity by means of authentic existence; which leads to a mind free of doubt and fear, reassuring that the dream has meaning."
+    },
+    {
+        "id": "4",
+        "title": "Franz Kafka",
+        "text": "There was once a time when a man questioned his place in the world and what his life meant. He did not muse on vague philosophical definitions or pragmatic scientific answers. It was a sincere sense of curiosity and longing, which made him question the unquestionable and find solace in the answers. The answers did not come to him by means of fame, pleasure, or glory. He believed he never got the answers and that he was conducting a blind search. Unknowingly blind to the scope of his craft, he became the answer in itself. His work immortalized his need for a happy life and became a compendium of cautionary tales that shed light on the human psyche. He accidentally taught us how to better appreciate our place in the world. His passing away was a reminder of him being like us, an authentic and reassuring manifestation of the human condition. "
     }
 ]
